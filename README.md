@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nagawadesuyog" target="blank"><img src="https://img.shields.io/twitter/follow/nagawadesuyog?logo=twitter&style=for-the-badge" alt="nagawadesuyog" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Builder](https://github.com/Suyog8383/Resume-Builder-Project)
+- 🔭 I’m currently working on [Instagram Clone](https://github.com/Suyog8383/Instagram-App)
 
 - 🌱 I’m currently learning **Html CSS javaScript Git**
 
