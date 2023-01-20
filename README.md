@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/Suyog8383/Instagram-App)
 
-- 🌱 I’m currently learning **Html CSS javaScript Git**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suyog8383?tab=stars](https://github.com/Suyog8383?tab=stars)
 
-- 💬 Ask me about **Html CSS javaScript Git**
+- 💬 Ask me about **Html CSS javaScript React Git**
 
 - 📫 How to reach me **suyognagawade8383@gmail.com**
 
