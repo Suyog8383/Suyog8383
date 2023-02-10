@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog8383&label=Profile%20views&color=0e75b6&style=flat" alt="suyog8383" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nagawadesuyog" target="blank"><img src="https://img.shields.io/twitter/follow/nagawadesuyog?logo=twitter&style=for-the-badge" alt="nagawadesuyog" /></a> </p>
-
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/Suyog8383/Instagram-App)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suyog8383?tab=stars](https://github.com/Suyog8383?tab=stars)
 
-- 💬 Ask me about **Html CSS javaScript React Git**
+- 💬 Ask me about **Html CSS javaScript React Redux Git**
 
 - 📫 How to reach me **suyognagawade8383@gmail.com**
 
