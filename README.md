@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/Suyog8383/Instagram-App)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suyog8383?tab=stars](https://github.com/Suyog8383?tab=stars)
 
