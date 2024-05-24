@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Dashboard](https://github.com/Suyog8383/Ecommerce-Dashboard-Project)
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suyog8383?tab=stars](https://github.com/Suyog8383?tab=stars)
 
